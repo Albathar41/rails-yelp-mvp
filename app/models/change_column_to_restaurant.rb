@@ -1,0 +1,2 @@
+class ChangeColumnToRestaurant < ApplicationRecord
+end
